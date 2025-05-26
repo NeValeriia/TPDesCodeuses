@@ -96,11 +96,12 @@ footer {
 }
 nav {
   background: linear-gradient(to right, #242424 20%, #7e2b17 80%);
+  text-transform: uppercase;
   color: #fff9ef;
   height: 120px;
   width: 100%;
   /*padding: 0 20px;*/
-  text-transform: uppercase;
+
   font-family: "Archivo Narrow", sans-serif;
 }
 
