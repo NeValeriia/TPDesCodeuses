@@ -100,6 +100,7 @@ nav {
   height: 120px;
   width: 100%;
   /*padding: 0 20px;*/
+  text-transform: uppercase;
   font-family: "Archivo Narrow", sans-serif;
 }
 
