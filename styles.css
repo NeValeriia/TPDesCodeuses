@@ -134,13 +134,7 @@ img.footer {
   height: 120px;
 }
 
-75% {
-  font-size: 300%;
-  margin-left: 25%;
-  width: 150%;
-}
-
-. {
+.P1 {
   animation-duration: 3s;
   animation-name: slidein;
 }
